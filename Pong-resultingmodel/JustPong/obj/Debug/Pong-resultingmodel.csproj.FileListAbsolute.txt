@@ -1,0 +1,15 @@
+C:\Users\rahma\source\repos\нейронки\Pong-resultingmodel\JustPong\bin\Debug\JustPong.exe.config
+C:\Users\rahma\source\repos\нейронки\Pong-resultingmodel\JustPong\bin\Debug\JustPong.exe
+C:\Users\rahma\source\repos\нейронки\Pong-resultingmodel\JustPong\bin\Debug\JustPong.pdb
+C:\Users\rahma\source\repos\нейронки\Pong-resultingmodel\JustPong\obj\Debug\Pong-resultingmodel.csproj.AssemblyReference.cache
+C:\Users\rahma\source\repos\нейронки\Pong-resultingmodel\JustPong\obj\Debug\Pong-resultingmodel.csproj.SuggestedBindingRedirects.cache
+C:\Users\rahma\source\repos\нейронки\Pong-resultingmodel\JustPong\obj\Debug\NeuralNetworkPong.Form1.resources
+C:\Users\rahma\source\repos\нейронки\Pong-resultingmodel\JustPong\obj\Debug\JustPong.Properties.Resources.resources
+C:\Users\rahma\source\repos\нейронки\Pong-resultingmodel\JustPong\obj\Debug\Pong-resultingmodel.csproj.GenerateResource.cache
+C:\Users\rahma\source\repos\нейронки\Pong-resultingmodel\JustPong\obj\Debug\Pong-resultingmodel.csproj.CoreCompileInputs.cache
+C:\Users\rahma\source\repos\нейронки\Pong-resultingmodel\JustPong\obj\Debug\JustPong.exe
+C:\Users\rahma\source\repos\нейронки\Pong-resultingmodel\JustPong\obj\Debug\JustPong.pdb
+C:\Users\rahma\source\repos\нейронки\Pong-resultingmodel\JustPong\bin\Debug\JustPong.exe.manifest
+C:\Users\rahma\source\repos\нейронки\Pong-resultingmodel\JustPong\bin\Debug\JustPong.application
+C:\Users\rahma\source\repos\нейронки\Pong-resultingmodel\JustPong\obj\Debug\JustPong.exe.manifest
+C:\Users\rahma\source\repos\нейронки\Pong-resultingmodel\JustPong\obj\Debug\JustPong.application

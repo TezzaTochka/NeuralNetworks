@@ -1,0 +1,11 @@
+C:\Users\rahma\source\repos\NeuralNetworkSnake\GeneticAlgorithmSnake\bin\Debug\GeneticAlgorithmSnake.exe.config
+C:\Users\rahma\source\repos\NeuralNetworkSnake\GeneticAlgorithmSnake\bin\Debug\GeneticAlgorithmSnake.exe
+C:\Users\rahma\source\repos\NeuralNetworkSnake\GeneticAlgorithmSnake\bin\Debug\GeneticAlgorithmSnake.pdb
+C:\Users\rahma\source\repos\NeuralNetworkSnake\GeneticAlgorithmSnake\obj\Debug\GeneticAlgorithmSnake.csproj.AssemblyReference.cache
+C:\Users\rahma\source\repos\NeuralNetworkSnake\GeneticAlgorithmSnake\obj\Debug\GeneticAlgorithmSnake.csproj.SuggestedBindingRedirects.cache
+C:\Users\rahma\source\repos\NeuralNetworkSnake\GeneticAlgorithmSnake\obj\Debug\NeuralNetworkSnake.Form1.resources
+C:\Users\rahma\source\repos\NeuralNetworkSnake\GeneticAlgorithmSnake\obj\Debug\GeneticAlgorithmSnake.Properties.Resources.resources
+C:\Users\rahma\source\repos\NeuralNetworkSnake\GeneticAlgorithmSnake\obj\Debug\GeneticAlgorithmSnake.csproj.GenerateResource.cache
+C:\Users\rahma\source\repos\NeuralNetworkSnake\GeneticAlgorithmSnake\obj\Debug\GeneticAlgorithmSnake.csproj.CoreCompileInputs.cache
+C:\Users\rahma\source\repos\NeuralNetworkSnake\GeneticAlgorithmSnake\obj\Debug\GeneticAlgorithmSnake.exe
+C:\Users\rahma\source\repos\NeuralNetworkSnake\GeneticAlgorithmSnake\obj\Debug\GeneticAlgorithmSnake.pdb

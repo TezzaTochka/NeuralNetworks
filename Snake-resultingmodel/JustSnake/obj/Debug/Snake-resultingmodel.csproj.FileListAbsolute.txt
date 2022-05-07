@@ -1,0 +1,15 @@
+C:\Users\rahma\source\repos\нейронки\Snake-resultingmodel\JustSnake\bin\Debug\JustSnake.exe.config
+C:\Users\rahma\source\repos\нейронки\Snake-resultingmodel\JustSnake\bin\Debug\JustSnake.exe.manifest
+C:\Users\rahma\source\repos\нейронки\Snake-resultingmodel\JustSnake\bin\Debug\JustSnake.application
+C:\Users\rahma\source\repos\нейронки\Snake-resultingmodel\JustSnake\bin\Debug\JustSnake.exe
+C:\Users\rahma\source\repos\нейронки\Snake-resultingmodel\JustSnake\bin\Debug\JustSnake.pdb
+C:\Users\rahma\source\repos\нейронки\Snake-resultingmodel\JustSnake\obj\Debug\Snake-resultingmodel.csproj.AssemblyReference.cache
+C:\Users\rahma\source\repos\нейронки\Snake-resultingmodel\JustSnake\obj\Debug\Snake-resultingmodel.csproj.SuggestedBindingRedirects.cache
+C:\Users\rahma\source\repos\нейронки\Snake-resultingmodel\JustSnake\obj\Debug\NeuralNetworkSnake.Form1.resources
+C:\Users\rahma\source\repos\нейронки\Snake-resultingmodel\JustSnake\obj\Debug\JustSnake.Properties.Resources.resources
+C:\Users\rahma\source\repos\нейронки\Snake-resultingmodel\JustSnake\obj\Debug\Snake-resultingmodel.csproj.GenerateResource.cache
+C:\Users\rahma\source\repos\нейронки\Snake-resultingmodel\JustSnake\obj\Debug\Snake-resultingmodel.csproj.CoreCompileInputs.cache
+C:\Users\rahma\source\repos\нейронки\Snake-resultingmodel\JustSnake\obj\Debug\JustSnake.exe.manifest
+C:\Users\rahma\source\repos\нейронки\Snake-resultingmodel\JustSnake\obj\Debug\JustSnake.application
+C:\Users\rahma\source\repos\нейронки\Snake-resultingmodel\JustSnake\obj\Debug\JustSnake.exe
+C:\Users\rahma\source\repos\нейронки\Snake-resultingmodel\JustSnake\obj\Debug\JustSnake.pdb

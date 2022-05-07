@@ -1,0 +1,15 @@
+C:\Users\rahma\source\repos\нейронки\Pong-learningmodel\NeuralNetworkPong\bin\Debug\NeuralNetworkPong.exe.config
+C:\Users\rahma\source\repos\нейронки\Pong-learningmodel\NeuralNetworkPong\bin\Debug\NeuralNetworkPong.exe
+C:\Users\rahma\source\repos\нейронки\Pong-learningmodel\NeuralNetworkPong\bin\Debug\NeuralNetworkPong.pdb
+C:\Users\rahma\source\repos\нейронки\Pong-learningmodel\NeuralNetworkPong\obj\Debug\Pong-learningmodel.csproj.AssemblyReference.cache
+C:\Users\rahma\source\repos\нейронки\Pong-learningmodel\NeuralNetworkPong\obj\Debug\Pong-learningmodel.csproj.SuggestedBindingRedirects.cache
+C:\Users\rahma\source\repos\нейронки\Pong-learningmodel\NeuralNetworkPong\obj\Debug\NeuralNetworkPong.Form1.resources
+C:\Users\rahma\source\repos\нейронки\Pong-learningmodel\NeuralNetworkPong\obj\Debug\NeuralNetworkPong.Properties.Resources.resources
+C:\Users\rahma\source\repos\нейронки\Pong-learningmodel\NeuralNetworkPong\obj\Debug\Pong-learningmodel.csproj.GenerateResource.cache
+C:\Users\rahma\source\repos\нейронки\Pong-learningmodel\NeuralNetworkPong\obj\Debug\Pong-learningmodel.csproj.CoreCompileInputs.cache
+C:\Users\rahma\source\repos\нейронки\Pong-learningmodel\NeuralNetworkPong\obj\Debug\NeuralNetworkPong.exe
+C:\Users\rahma\source\repos\нейронки\Pong-learningmodel\NeuralNetworkPong\obj\Debug\NeuralNetworkPong.pdb
+C:\Users\rahma\source\repos\нейронки\Pong-learningmodel\NeuralNetworkPong\bin\Debug\NeuralNetworkPong.exe.manifest
+C:\Users\rahma\source\repos\нейронки\Pong-learningmodel\NeuralNetworkPong\bin\Debug\NeuralNetworkPong.application
+C:\Users\rahma\source\repos\нейронки\Pong-learningmodel\NeuralNetworkPong\obj\Debug\NeuralNetworkPong.exe.manifest
+C:\Users\rahma\source\repos\нейронки\Pong-learningmodel\NeuralNetworkPong\obj\Debug\NeuralNetworkPong.application

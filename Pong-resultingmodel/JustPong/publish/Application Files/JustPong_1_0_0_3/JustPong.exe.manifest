@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="JustPong.exe" version="1.0.0.3" publicKeyToken="5def7f282684e828" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="JustPong" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="JustPong.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="JustPong.exe" size="15328">
+      <assemblyIdentity name="JustPong" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>IX1CqZGwXijTfuGIsUTfpbnASAEhZAB/4h0Yniyslf0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="JustPong.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-J5U67CA\rahma" issuerKeyHash="11d26353fdf28814ec4fdedee2e92c35a8ae193c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Q7heVMMqztUDme8J3vvVRu5I03tb42046BwpQI1j6dA=</DigestValue></Reference></SignedInfo><SignatureValue>mEN/BlD3202e1i7gOvQ4KLO/s3PkMOjyXt851sH7EIULBqrVHyOy2f2Q8Xjl9NowducguVSf7JaRDKbWNKsptw99WJE2Kgb/ItNZExR7PDbGORmwye2pbEsbrD4Oj9KG7lOFGqwnCtJCCudakG7xP25WnAufR3zAQu5B8U3McCw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vDftHEqwryxcZjO+WU7h++k4thjOZYGmDPDHcT8TLIegMw6kzCsMkZmkWZ9rU2wRrGK8ABPP9NXuiiIANkAtaahQfa1APwTBpYyz7myktqxHQJiHW0/zVzo/ViqhsQSLBLtD2oxuYsHmmEHBeo8Z8SyDUW2J7fPAo5ya/zVHn50=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d0e9638d40291ce8386de35b7bd348ee46d5fbde09ef9903d5ce2ac3545eb843" Description="" Url=""><as:assemblyIdentity name="JustPong.exe" version="1.0.0.3" publicKeyToken="5def7f282684e828" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-J5U67CA\rahma</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>854JafUy7/1aIIPqq8sPBkZoSzMqXr6RAFdPael162s=</DigestValue></Reference></SignedInfo><SignatureValue>GriLaingmYboy6NhsrvBbgLxqQNevUq3iUVcJ6nZeA8244eqSrliX9pFRmmzsnJ0bq+GUbRDWYEo3xGY+YzJaArBwg1PKmUpXsn9zwcqjOCEnVCQnbxV3IfbDHTNjiYntXhuoZfqnLlFis+C3nT0gpe2hcrv/RLsZjazUa05Qfo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vDftHEqwryxcZjO+WU7h++k4thjOZYGmDPDHcT8TLIegMw6kzCsMkZmkWZ9rU2wRrGK8ABPP9NXuiiIANkAtaahQfa1APwTBpYyz7myktqxHQJiHW0/zVzo/ViqhsQSLBLtD2oxuYsHmmEHBeo8Z8SyDUW2J7fPAo5ya/zVHn50=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQf4g3q72pyLhFU+d5Et3D9TANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEoANQBVADYANwBDAEEAXAByAGEAaABtAGEwHhcNMjIwNTA3MTM0NzUzWhcNMjMwNTA3MTk0NzUzWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEoANQBVADYANwBDAEEAXAByAGEAaABtAGEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALw37RxKsK8sXGYzvllO4fvpOLYYzmWBpgzwx3E/EyyHoDMOpMwrDJGZpFmfa1NsEaxivAATz/TV7ooiADZALWmoUH2tQD8EwaWMs+5spLasR0CYh1tP81c6P1YqobEEiwS7Q9qMbmLB5phBwXqPGfEsg1Ftie3zwKOcmv81R5+dAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAUO+nMAVTXFP2XKJSCbvEwfE+1E3WqhktI5/40BYBCgOLVM7QZlc73t/oniAFs0ULTKabEMIEdd5+IXSzJaKjP3rIQftlbVUBMEp63VSeYnbm3ex0j6pGr6dzYqO0R2tNi2CESmChYn9dhY6z9d6RWEU+MWzfcH4XjCcj+OD6uRU=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

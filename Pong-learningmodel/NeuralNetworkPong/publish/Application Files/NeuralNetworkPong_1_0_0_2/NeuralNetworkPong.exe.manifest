@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="NeuralNetworkPong.exe" version="1.0.0.2" publicKeyToken="9a1b10e46993c23c" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="NeuralNetworkPong" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="NeuralNetworkPong.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NeuralNetworkPong.exe" size="17376">
+      <assemblyIdentity name="NeuralNetworkPong" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>5tIwmgmL0biOSSeXLNaPX3t08HfEMTXOmEBe/r9QRJ8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="NeuralNetworkPong.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-J5U67CA\rahma" issuerKeyHash="906fe8377e33a4bedcb33531785fb4ab2a8c2389" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>pe8rDghL6adYJylZFK3eTminQAJvBMslgJyAzedtIaE=</DigestValue></Reference></SignedInfo><SignatureValue>neKxKZ3cVNXHzcK9NUjxnnt6UfIDY69TGFncttMn8EQOD7gqvPixOv1JK/dD/J26p/H6ReZ7J0zBH3bW6jGrmThAIk8NDJlYAfGC/UkEcDQUliaUIlmzCXcq+a0pjMq6j4bYRr94ay0pbugSWWNTh0iL0bsayF6Xron6520jdo8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rtRi/jbwDE0TZuzzwue/XKrTvwEJdvp+m4vtLWmP3nxk9bFFBUyd308vQQa8krL2uLQyHFTvPi/gawqVq3ZHY4dVZvrlL/UX0/SLMUhqBrb2uD8EQNn1U0L4WqaGQuCjkMt3FuRt9Bl72YZ8k2GAslaD8Rb7DawmXp+b6u+PpDE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a1216de7cd809c8025cb046f0240a7684edead1459292758a7e94b080e2befa5" Description="" Url=""><as:assemblyIdentity name="NeuralNetworkPong.exe" version="1.0.0.2" publicKeyToken="9a1b10e46993c23c" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-J5U67CA\rahma</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>9cGsgr/XOHTonfJBj6V/c1epnfxhz3Knpw3gjqOHRB0=</DigestValue></Reference></SignedInfo><SignatureValue>SqZUWVf1bLiSuEL6qUZr+MpQaV2uMag06XYeHxDlwNiFPV0nQG5TihIRe8fmwPQvop7eyK0TwGNxQNNvQP5kasNCFlXnOtcH6VxTAlFfWeDX4DD+//jCiZhH+edqVl8yYRRlSmkRicadqC8iBl02VqRzoIBpd/i+bnvsiUFygTE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rtRi/jbwDE0TZuzzwue/XKrTvwEJdvp+m4vtLWmP3nxk9bFFBUyd308vQQa8krL2uLQyHFTvPi/gawqVq3ZHY4dVZvrlL/UX0/SLMUhqBrb2uD8EQNn1U0L4WqaGQuCjkMt3FuRt9Bl72YZ8k2GAslaD8Rb7DawmXp+b6u+PpDE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQETdlVfkbZZ9Ms48OQdfMczANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEoANQBVADYANwBDAEEAXAByAGEAaABtAGEwHhcNMjIwNTA3MTM0NDI5WhcNMjMwNTA3MTk0NDI5WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEoANQBVADYANwBDAEEAXAByAGEAaABtAGEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK7UYv428AxNE2bs88Lnv1yq078BCXb6fpuL7S1pj958ZPWxRQVMnd9PL0EGvJKy9ri0MhxU7z4v4GsKlat2R2OHVWb65S/1F9P0izFIaga29rg/BEDZ9VNC+FqmhkLgo5DLdxbkbfQZe9mGfJNhgLJWg/EW+w2sJl6fm+rvj6QxAgMBAAEwDQYJKoZIhvcNAQELBQADgYEApUKibl5lvfbG2G9MJBkycsP8OqwVMtrYxQl0SjqVtuPY3ZJ+wqYtyQn3/Y0yT5vLAhS5j6Vsc9iSWe0XVeKFtAkp810aObV6VVNk5XOUhrdopk6uaVhZODFl+e8wa5K2L5Ba73Ovm7loHbSLpZ3jrtK3oaH6Uzx7fcQ9VTJZ2jo=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

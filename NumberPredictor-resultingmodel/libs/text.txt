@@ -1,0 +1,3 @@
+debug - sfml-graphics-d.lib;sfml-window-d.lib;sfml-system-d.lib;sfml-audio-d.lib;
+
+release - sfml-graphics.lib;sfml-window.lib;sfml-system.lib;sfml-audio.lib;

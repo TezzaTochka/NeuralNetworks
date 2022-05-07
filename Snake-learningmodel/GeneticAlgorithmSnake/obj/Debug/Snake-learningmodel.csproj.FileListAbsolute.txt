@@ -1,0 +1,15 @@
+C:\Users\rahma\source\repos\нейронки\Snake-learningmodel\GeneticAlgorithmSnake\bin\Debug\NeuralNetworkSnake.exe.config
+C:\Users\rahma\source\repos\нейронки\Snake-learningmodel\GeneticAlgorithmSnake\bin\Debug\NeuralNetworkSnake.exe
+C:\Users\rahma\source\repos\нейронки\Snake-learningmodel\GeneticAlgorithmSnake\bin\Debug\NeuralNetworkSnake.pdb
+C:\Users\rahma\source\repos\нейронки\Snake-learningmodel\GeneticAlgorithmSnake\obj\Debug\Snake-learningmodel.csproj.AssemblyReference.cache
+C:\Users\rahma\source\repos\нейронки\Snake-learningmodel\GeneticAlgorithmSnake\obj\Debug\Snake-learningmodel.csproj.SuggestedBindingRedirects.cache
+C:\Users\rahma\source\repos\нейронки\Snake-learningmodel\GeneticAlgorithmSnake\obj\Debug\NeuralNetworkSnake.Form1.resources
+C:\Users\rahma\source\repos\нейронки\Snake-learningmodel\GeneticAlgorithmSnake\obj\Debug\NeuralNetworkSnake.Properties.Resources.resources
+C:\Users\rahma\source\repos\нейронки\Snake-learningmodel\GeneticAlgorithmSnake\obj\Debug\Snake-learningmodel.csproj.GenerateResource.cache
+C:\Users\rahma\source\repos\нейронки\Snake-learningmodel\GeneticAlgorithmSnake\obj\Debug\Snake-learningmodel.csproj.CoreCompileInputs.cache
+C:\Users\rahma\source\repos\нейронки\Snake-learningmodel\GeneticAlgorithmSnake\obj\Debug\NeuralNetworkSnake.exe
+C:\Users\rahma\source\repos\нейронки\Snake-learningmodel\GeneticAlgorithmSnake\obj\Debug\NeuralNetworkSnake.pdb
+C:\Users\rahma\source\repos\нейронки\Snake-learningmodel\GeneticAlgorithmSnake\bin\Debug\NeuralNetworkSnake.exe.manifest
+C:\Users\rahma\source\repos\нейронки\Snake-learningmodel\GeneticAlgorithmSnake\bin\Debug\NeuralNetworkSnake.application
+C:\Users\rahma\source\repos\нейронки\Snake-learningmodel\GeneticAlgorithmSnake\obj\Debug\NeuralNetworkSnake.exe.manifest
+C:\Users\rahma\source\repos\нейронки\Snake-learningmodel\GeneticAlgorithmSnake\obj\Debug\NeuralNetworkSnake.application

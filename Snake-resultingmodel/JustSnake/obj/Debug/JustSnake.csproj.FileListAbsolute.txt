@@ -1,0 +1,11 @@
+C:\Users\rahma\source\repos\JustSnake\JustSnake\bin\Debug\JustSnake.exe.config
+C:\Users\rahma\source\repos\JustSnake\JustSnake\bin\Debug\JustSnake.exe
+C:\Users\rahma\source\repos\JustSnake\JustSnake\bin\Debug\JustSnake.pdb
+C:\Users\rahma\source\repos\JustSnake\JustSnake\obj\Debug\JustSnake.csproj.AssemblyReference.cache
+C:\Users\rahma\source\repos\JustSnake\JustSnake\obj\Debug\JustSnake.csproj.SuggestedBindingRedirects.cache
+C:\Users\rahma\source\repos\JustSnake\JustSnake\obj\Debug\NeuralNetworkSnake.Form1.resources
+C:\Users\rahma\source\repos\JustSnake\JustSnake\obj\Debug\JustSnake.Properties.Resources.resources
+C:\Users\rahma\source\repos\JustSnake\JustSnake\obj\Debug\JustSnake.csproj.GenerateResource.cache
+C:\Users\rahma\source\repos\JustSnake\JustSnake\obj\Debug\JustSnake.csproj.CoreCompileInputs.cache
+C:\Users\rahma\source\repos\JustSnake\JustSnake\obj\Debug\JustSnake.exe
+C:\Users\rahma\source\repos\JustSnake\JustSnake\obj\Debug\JustSnake.pdb

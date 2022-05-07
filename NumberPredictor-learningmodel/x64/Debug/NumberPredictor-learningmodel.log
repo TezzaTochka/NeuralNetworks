@@ -1,0 +1,3 @@
+﻿  NumberPredictor-learningmodel.cpp
+C:\Users\rahma\source\repos\NumberPredictor-learningmodel\ActFunc.h(8,2): warning C4091: static : пропускается слева от "ActFunc", когда ни одна переменная не объявлена
+  NumberPredictor-learningmodel.vcxproj -> C:\Users\rahma\source\repos\NumberPredictor-learningmodel\x64\Debug\NumberPredictor-learningmodel.exe
