@@ -8,6 +8,7 @@
 много различий, к которым первая нейросеть не обучалась.
 путь к exe файлу(NumberPredictor-learningmodel) - NumberPredictor-learningmodel\x64\Debug\NumberPredictor-learningmodel.exe
 путь к exe файлу(NumberPredictor-resultingmodel) - NumberPredictor-resultingmodel\x64\Debug\NumberPredictor-resultingmodel.exe
+(если будут проблемы с библиотекой SFML по выводу графического интерфейса, то посмотрите этот туториал https://www.youtube.com/watch?v=w339OWGlSo0)
 
 Вторая нейросеть(Pong)написана на языке c#, имеет генетический алгоритм обучения. В learningmodel вы можете ускорять время обучения, нажимая клавишу(+), 
 и замедлять время, нажимая клавишу(-). Также вы можете пропускать некоторое количество итераций(тем самым, ускоряя время обучения), нажимая клавишу(]), 
